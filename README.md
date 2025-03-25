@@ -5,4 +5,4 @@ egér gombbal vagy szóköz gombbal működik.
 <br>
 https://scratch.mit.edu/projects/1152373970
 <br>
-<img src="" style="width:100%;">
+<img src="kép_2025-03-25_150651623.png" style="width:100%;">
